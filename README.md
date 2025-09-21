@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 Clone this repository:
 ```bash 
-git clone https://github.com/fillllllll/digit_recognizer.git
+git clone https://github.com/plafarguette2/digit_recognizer.git
 cd digit_recognizer
 ```
 
