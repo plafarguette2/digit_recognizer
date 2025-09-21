@@ -70,12 +70,12 @@ docker build -t digit_recognizer .
 
 Run the container:
 ```bash
-docker run -d -p 127.0.0.1:8501:8501 digit_recognizer
+docker run -d -p 0.0.0.0:8080:8501 digit_recognizer
 ```
 
 Open your browser and go to:
 
-http://localhost:8501/
+http://localhost:8080/
 
 **Option 2: Run locally without Docker**
 
