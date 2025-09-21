@@ -28,7 +28,6 @@ digit_recognizer
     |   test_model.py
     |   test_predictor.py
     |   test_preprocessor.py
-    |   test_streamlit_app.py
 ```
 
 ## Requirements
